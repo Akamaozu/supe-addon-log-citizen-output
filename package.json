@@ -1,5 +1,5 @@
 {
-  "name": "supe-citizen-output-logger",
+  "name": "supe-addon-log-citizen-output",
   "version": "1.0.0",
   "description": "Supe Supervisor Module: label and pipe citizen stdout and stderr to supervisor's",
   "main": "index.js",
@@ -7,5 +7,19 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Akamaozu/supe-addon-log-citizen-output.git"
+  },
+  "keywords": [
+    "supe",
+    "addon",
+    "log"
+  ],
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Akamaozu/supe-addon-log-citizen-output/issues"
+  },
+  "homepage": "https://github.com/Akamaozu/supe-addon-log-citizen-output#readme"
 }

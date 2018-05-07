@@ -4,11 +4,13 @@
 ![npm version](http://public.designbymobi.us/img/node-satellite-timeless.jpg)
 
 # Install
+
 ```
 npm install --save supe-addon-log-citizen-output
 ```
 
 # Usage
+
 ```
 var supervisor = require('supe')(),
     log_citizen_output_addon = require('supe-addon-log-citizen-output');
