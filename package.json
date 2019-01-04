@@ -1,6 +1,6 @@
 {
   "name": "supe-addon-log-citizen-output",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Supe Supervisor Module: label and pipe citizen stdout and stderr to supervisor's",
   "main": "index.js",
   "scripts": {
